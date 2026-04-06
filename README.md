@@ -42,7 +42,7 @@ I love solving problems, building software, and learning by doing — from my fi
 ---
 
 ## 📊 GitHub Stats
-![Sanzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanzidislam&show_icons=true&theme=tokyonight)
+![Sanzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanzid-islam-mahi&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sanzidislam&theme=tokyonight)
 
 ---
