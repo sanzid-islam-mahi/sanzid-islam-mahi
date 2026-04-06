@@ -43,12 +43,12 @@ I love solving problems, building software, and learning by doing — from my fi
 
 ## 📊 GitHub Stats
 ![Sanzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanzid-islam-mahi&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Sanzidislam&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sanzid-islam-mahi&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
-- **GitHub:** [github.com/Sanzidislam](https://github.com/Sanzidislam)
+- **GitHub:** [github.com/Sanzidislam](https://github.com/sanzid-islam-mahi)
 - **LinkedIn:** [linkedin.com/in/sanzid-islam-mahi](https://www.linkedin.com/in/sanzid-islam-mahi)
 - **Email:** sanzid.csecu@gmail.com
 
