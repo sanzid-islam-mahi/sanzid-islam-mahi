@@ -61,7 +61,7 @@ Strengths: algorithms, optimization, and structured problem solving.
 ---
 
 ## GitHub Stats
-![Sanzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanzid-islam-mahi&show_icons=true&theme=tokyonight)
+<!-- ![Sanzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanzid-islam-mahi&show_icons=true&theme=tokyonight) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=sanzid-islam-mahi&theme=tokyonight)
 
 ---
