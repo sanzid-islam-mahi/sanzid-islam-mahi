@@ -48,7 +48,7 @@ I love solving problems, building software, and learning by doing — from my fi
 ---
 
 ## 📫 Let's Connect
-- **GitHub:** [github.com/Sanzidislam](https://github.com/sanzid-islam-mahi)
+- **GitHub:** [github.com/sanzid-islam-mahi](https://github.com/sanzid-islam-mahi)
 - **LinkedIn:** [linkedin.com/in/sanzid-islam-mahi](https://www.linkedin.com/in/sanzid-islam-mahi)
 - **Email:** sanzid.csecu@gmail.com
 
